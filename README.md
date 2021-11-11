@@ -183,5 +183,5 @@ There is a lot of pros and cons when it comes to refactoring code.
 * The older code had a smaller file size then the newer one.
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/kickstarter-analysis) for the excel worksheet and other resources.
+  * Visit this [link](https://github.com/tanzimamin2/stock-analysis) for the excel worksheet and other resources.
    
